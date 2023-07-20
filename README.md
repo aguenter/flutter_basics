@@ -2,8 +2,8 @@
 This repository is used to teach the basics in flutter.
 
 # Table of Contents
-1. [Flutter Overview](#flutter_overview)
-2. [Dart Basics](#dart_basics)
+1. [Flutter Overview](#flutter-overview)
+2. [Dart Basics](#dart-basics)
 3. 
 
 
